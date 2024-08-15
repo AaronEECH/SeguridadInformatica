@@ -1,8 +1,8 @@
 # Keylogger en C
 
-Este programa es un keylogger simple en C que captura eventos del teclado y registra la duración de cada tecla presionada en un archivo de log. El archivo de log se guarda en una ruta específica con un nombre basado en la fecha y hora actuales.
+Este programa es un keylogger simple en lenguaje C que captura eventos de un teclado seleccionado en la computadora y registra la duración de cada tecla presionada asi como su represntacion en texto en un archivo de log.txt. El archivo de log se guarda en una ruta específica con un nombre basado en la fecha y hora actuales en donde se esté ejecutando.
 
-## Descripción del Código
+## Descripción de uso del código:
 
 El programa se encarga de realizar las siguientes tareas:
 
