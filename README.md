@@ -39,6 +39,13 @@ Estas son las funciones más sobresalientes aplicadas en el código y eplicadas 
 5. **Revisar el Archivo de Log**:
    - El archivo de log se guardará en la ruta `/home/Tu_Nombre_De_Usuario/Documentos/keylogger` con un nombre basado en la fecha y hora actuales. Revisa este archivo para ver los registros de teclas.
 
-## Comentarios del Código
+## Casos de uso
 
-- **Función `get_log_filename`**:
+1. **Escolar**
+   - Sólo  para fines educativos y con un propósito específico de mostrar el uso de herramientas de adquisión de datos in el concentimiento del usuario.
+
+2. **Hacking Ético**
+   - Para uso afin a encontrar vulnerabilidades en el computador atacante y así como poder identificarlo para su eliminación del mismo.
+
+3. **Mal Uso**
+   - El mal uso de este software puede ser conducido a practicas ilegales por ende mismo la persona que le de un mal uso podría ser puesta bajo las autoridades correspondientes.
