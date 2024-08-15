@@ -42,11 +42,3 @@ Estas son las funciones más sobresalientes aplicadas en el código y eplicadas 
 ## Comentarios del Código
 
 - **Función `get_log_filename`**:
-  ```c
-  char* get_log_filename() {
-      time_t t = time(NULL);
-      struct tm *tm_info = localtime(&t);
-      static char filename[128];
-      strftime(filename, 128, "/home/machine/Documentos/keylogger/%d-%m-%Y_%H-%M.txt", tm_info);
-      return filename;
-  }
